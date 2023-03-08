@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668332440210",
+    "project_id": "fcm-f7ee8",
+    "storage_bucket": "fcm-f7ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668332440210:android:4d83cd3d2050489ab1444b",
+        "android_client_info": {
+          "package_name": "com.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668332440210-1bvc2sj643no6js0spd860g8smfn4k73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eu37HG-8tBzG4hvjE-gg_xY7aLC4d0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668332440210-1bvc2sj643no6js0spd860g8smfn4k73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
